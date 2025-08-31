@@ -60,4 +60,11 @@
 </a>
 
 </p>
+<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ariennss/ariennss/main/memebug2.JPG" 
+       alt="Banner - Arianna Franchetto" 
+       width="300"/>
+</p>
+
 
