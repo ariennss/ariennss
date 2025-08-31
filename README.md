@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<TUO_USERNAME>/<TUO_USERNAME>/main/banner.png" alt="Banner - Arianna Franchetto" />
+  <img src="https://raw.githubusercontent.com/ariennss/ariennss/main/gitbanner.png" alt="Banner - Arianna Franchetto" />
 </p>
 
 ## Hi there 👋
