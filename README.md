@@ -6,11 +6,11 @@
 ## 👩‍💻 About Me
 
 - 💼  I'm a **Software Developer** with a focus on backend technologies.
-- 🎓  I hold a **Bachelor’s degree in ICT** and another **Bachelor’s degree in Social Sciences**, because... why not?  
-- 🌱  I’m a dedicated **reader**, a **food enthusiast who loves cooking**, and a **compulsive devourer of TV series**.  
-- 🏃  Latest sport tried: Tai Chi
-- 🚀  Latest aspiration: learning 3D art (but like... for now I've only bought the graphic tablet 😅)
-- 🏔️  Latest challenge: on my way to learn Javascript (because I don't want to be bad at frontend anymore 😭)
+- 🎓  I hold a Bachelor’s degree in **ICT** and another Bachelor’s degree in **Social Sciences**, because... why not?  
+- 🌱  I’m a dedicated **reader**, a food enthusiast who loves **cooking**, and a compulsive devourer of **TV series**.
+- 🏃  Latest sport tried: **Tai Chi**
+- 🚀  Latest aspiration: learning **3D art** (but like... for now I've only got the graphic tablet 😅)
+- 🏔️  Latest challenge: on my way to learn **Javascript** (because I don't want to be bad at frontend anymore 😭)
 
 <br><br>
 <h3 align="center">🖥️ Languages & Frameworks</h3>
